@@ -43,7 +43,7 @@ so there are three folders:
 
 ### Contribution guidelines ###
 
-At the moment I can't make this project open source, as much as I'd like to because some art assets in the project (the hand, specifically)
+At the moment I can't make this project open source, as much as I'd like to because some art assets in the project (the hand and UI sprites, specifically)
 were purchased from Unity's asset store and I don't have the rights to distribute those assets. I'm currently working on a way
 to work around this though, perhaps find some free assets that can serve the same purpose. 
 
