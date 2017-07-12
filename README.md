@@ -35,9 +35,11 @@ more Mancala type games in the future.
 
 so there are three folders: 
 
-1) The setup folder which contains the setup file and should be able to install on any Windows PC
-2) The scripts folder which contains the scripts from the Unit project. The scripts can be viewed in any text editor
-3) The main unity project which will be opened using Unity 5.0 (recommended because Unity is rarely ever backwards compatible).
+1.) The setup folder which contains the setup file and should be able to install on any Windows PC
+
+2.) The scripts folder which contains the scripts from the Unit project. The scripts can be viewed in any text editor
+
+3.) The main unity project which will be opened using Unity 5.0 (recommended because Unity is rarely ever backwards compatible).
 
 ### Contribution guidelines ###
 
