@@ -20,9 +20,6 @@ that are facilitated by a storyline.
 The story mode is currently working fine. The algorithm implemented for the AI in levels 2 and 3 are the minimax algorithm
 with a depth of 1 and 2 respectively.
 
-For more details on the project you can read the writeup I created for it here:
-https://drive.google.com/open?id=0BycM7UgpPalmU2NGVmo1MnJuSHNKbk1GSExlOV91REpvaDlV
-
 ### How do I get set up?
 
 so there are two folders:
